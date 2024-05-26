@@ -351,7 +351,7 @@ span{
     width: 100vw;
     height: 200px;
     background-color: #0f154e;
-    color: #fff;
+    color: rgb(65, 136, 243);
 }
 
 .footer-content h2{
@@ -369,4 +369,7 @@ span{
     justify-content: space-evenly;
     width: 300px;
     margin-top: 1em;
+    
 }
+
+ 
